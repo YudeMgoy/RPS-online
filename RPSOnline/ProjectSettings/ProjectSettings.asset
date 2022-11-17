@@ -849,6 +849,7 @@ PlayerSettings:
     Build: 0
     Collab: 0
     Game Performance: 0
+    Legacy Analytics: 0
     Purchasing: 0
     UDP: 0
     Unity Ads: 0
@@ -865,11 +866,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 13ed85d4-aa5c-4420-9c19-44e8be801ad6
+  cloudProjectId: d3b27584-f59a-4d6a-94a8-5a782d98ec77
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: RPS-Dandi
-  organizationId: always_get_bug
+  projectName: RPS-Wahyudi
+  organizationId: yudemgoy25-as-publisher
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
